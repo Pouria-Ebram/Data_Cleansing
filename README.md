@@ -1,4 +1,4 @@
-# Data_Cleansing
+# Cleansing of Uber rides data
 This is a project to cleanse a data set using Python code
 
 There are three main sections to this work, detecting syntactical and semantical anomalies in a provided data set.
